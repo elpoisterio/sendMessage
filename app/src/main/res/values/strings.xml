@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="string_name">Name</string>
+    <string name="string_time">25:23 PM</string>
+    <string name="string_message">This is a new message.</string>
+    <string name="search">search</string>
+    <string name="search_hint">search</string>
+</resources>
